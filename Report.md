@@ -2,10 +2,10 @@
 
 | Név | Github azonosito  | Javasolt érdemjegy | Becsült óra | Indoklás  | 
 | --- | ---- | --- | ------------------ | --------- |
-| Kamondy Tivadar | @tivadark |  | 85+ | Csapatvezető, CI/CD workflow scriptek írása - DevOps feladatok, Dokumentálás, Lefedettség tesztelés, Unit testek, Doxygen (JSDoc), Front-end fejlesztés, Back-end fejlesztés, kód refaktorálása és felülvizsgálata, Docker, Github kezelése, Videók elkészítése, Github-pages, különféle NPM modulok kezelése a fejlesztés során  |
-| Zajovics Eszter | @zajovicseszter |  |  |   |
-| Csiszár Gergő | @csiszar197 |  |  |   |
-| Banai Alex | @Codename14 |  |  |  |
+| Kamondy Tivadar | @tivadark | 5  85+ | Csapatvezető, CI/CD workflow scriptek írása - DevOps feladatok, Dokumentálás, Lefedettség tesztelés, Unit testek, Doxygen (JSDoc), Front-end fejlesztés, Back-end fejlesztés, kód refaktorálása és felülvizsgálata, Docker, Github kezelése, Videók elkészítése, Github-pages, különféle NPM modulok kezelése a fejlesztés során  |
+| Zajovics Eszter | @zajovicseszter | 3 | 55+  |  |
+| Csiszár Gergő | @csiszar197 | 4 | 65+  |Front-end és Back-end fejlesztések, Back-end feladatok megtervezése, kód dokumentáció (JSDoc), Unit testek, Dokumentálás, Profiling, Docker |
+| Banai Alex | @Codename14 | 3 | 55+ |  |
 
 # Videók
 
@@ -13,6 +13,18 @@
  - [Codedefense](/videos/codedefense.mp4)
 
 # Befejezett feladatok
+Backend fejlesztés
+Különböző backend funkciók implementálása
+Frontend fejlesztés
+Firebase autentikáció beállítása
+Firebase adatbázis beállítása
+Docker beállítása
+React keretrendszer konfigurálása
+Unit tesztek megírása
+Videó elkészítése
+CI/CD workflow elkészítése
+JSDoc beállítása, dokumentáció készítése
+Github-pages elkészítése
 
 # Unit tesztek
 
@@ -24,13 +36,18 @@
 | `CreateTestDashboard` |
 | `NewDashboard` |
 
-
-# Kód dokumentáció
-
 # Mindenféle számok
+Javascript, HTML, CSS: ~1000+
+Egyéb kódsor: ~300+
 
 # Implicit megtanult dolgok
+ Projektvezetés, kivitelezés
+ Jsdoc
+ Bootstrap
+ Firebase autentikáció
 
 # Feedback
  
-@tivadark : Nagyon sokat tanultam a beadandó project során, úgy érzem hogy egy valós munka során is kamatoztatni tudom a tárgy teljesítése során megtanult dolgokat. Elsajátítottam a git által nyújtott előnyöket, megismerkedtem a github actionssel - amiben különösen tetszett, hogy milyen jó módon és egyszerűen kezelhető így a CI/CD. Illetve, mennyire is hasznos, hogy különféle egység és lefedettségi tesztekkel támogassuk a rendszerünk. A különböző automatikus dokumentáció kezelő technológiákkal, amelyek egy nagy projekt során szintén nagyon fontosak.
+@tivadark: Nagyon sokat tanultam a beadandó project során, úgy érzem hogy egy valós munka során is kamatoztatni tudom a tárgy teljesítése során megtanult dolgokat. Elsajátítottam a git által nyújtott előnyöket, megismerkedtem a github actionssel - amiben különösen tetszett, hogy milyen jó módon és egyszerűen kezelhető így a CI/CD. Illetve, mennyire is hasznos, hogy különféle egység és lefedettségi tesztekkel támogassuk a rendszerünk. A különböző automatikus dokumentáció kezelő technológiákkal, amelyek egy nagy projekt során szintén nagyon fontosak.
+
+@csiszar197: Nagyon hasznosnak találtam a projektet, még így CV-n is, mert rengeteg olyan dolgot tanulhattam meg, amiket későbbi fejlesztéseim során tudok alkalmazni. A megtanult fejlesztési eszközök kívül még hasznosnak találtam, hogy csapatba tudtunk dolgozni, ezen a téren is szerintem mindenki nagyon sokat fejlődött.
